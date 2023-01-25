@@ -69,4 +69,4 @@ These are the general conclusions that may be drawn from an EDA on the Google Pl
     4. Genres "Parenting," "Brain," and "Games" have the lowest Average Ratings, whilst "Board," "Pretend Play," and "Comics," Creativity," have the greatest Average Ratings of 4.8 each.
     5. Majority of apps that people utilise have a "Everyone 10+" as Content Rating.
     6. Majority of review sentiment is positive, with neutral reviews making up the smallest percentage.
-    7. After looking at the percentage of sentiments for the top 3 apps, it is discovered that the health and fitness category had the most positive sentiments, whilst the game app category received the most negative.
+    7. After looking at the percentage of sentiments for the top 3 apps, it is discovered that the health and fitness category had the most positive sentiments, whilst the game app category received the most negative. 
