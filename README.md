@@ -74,4 +74,4 @@ These are the general conclusions that may be drawn from an EDA on the Google Pl
     
   
 
-![image](https://user-images.githubusercontent.com/120657228/214528838-a0794e4f-2141-4491-88e0-8a777afef47f.png)
+
